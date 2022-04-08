@@ -1,0 +1,10 @@
+Para correr el programa, abrir una terminal en la carpeta donde se sitúa le archivo y ejecutar el comando:
+
+	python3 Lab1.py
+
+En caso de requerir dependencias, ejecutar:
+
+	pip3 install numpy
+
+	pip3 install python-math
+
