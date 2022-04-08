@@ -1,0 +1,15 @@
+Para correr el programa, abrir una terminal en la carpeta donde se sitúa le archivo y ejecutar el comando:
+
+	python3 Lab2.py
+
+En caso de requerir dependencias, ejecutar (si pip3 no funciona probar con pip):
+
+	pip3 install numpy
+
+	pip3 install python-math
+
+	pip3 install scipy
+
+-------------------------
+
+Este programa incluye dos modos, uno para caluclar muestreo y uno para estimar el valor del area solicitada y su correspondiente desviación media.
