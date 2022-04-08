@@ -1,0 +1,33 @@
+Para correr el programa, abrir una terminal en la carpeta donde se sitúa el archivo y ejecutar el comando:
+
+	python3 Lab4_parte_a.py
+	python3 Lab4_parte_c.py
+
+En caso de requerir dependencias, ejecutar:
+
+	
+	pip3 install python-math
+	pip3 install scipy
+	pip3 install random
+	pip3 install numpy
+
+----------------------------------------------------------
+DATOS DE ENTRADA
+
+Deben ser dos archivos con formato .txt
+
+Archivo 1) DEBE LLAMARSE sl.txt y representa los Estudiantes e Lenguajes que maneja
+Ejemplo
+
+0,0,1
+1,1,0
+
+Un archivo con esos datos implica que el "estudiante 0" habla el "idioma 2" y
+el "estudiante 1" hable los "idiomas 0 y 1" 
+
+Archivo 2) DEBE LLAMARSE pl.txt y representa los Profesores y Lenguajes que maneja
+Ejemplo
+
+0,1,1 
+
+Un archivo con esos datos implica que el "profesor 0" habla los "idiomas 1 y 2" 
