@@ -1,0 +1,9 @@
+Para correr el programa, abrir una terminal en la carpeta donde se sitúa el archivo y ejecutar el comando:
+
+	python3 Lab3_individual.py
+
+En caso de requerir dependencias, ejecutar:
+
+	
+	pip3 install python-math
+
